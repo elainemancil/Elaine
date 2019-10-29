@@ -1,5 +1,5 @@
 # Write a program that calculates your current grade in a course with 5 categories of assignments: Quizzes, Projects, Activities, Attendance, Exams
-
+#python code
 
 first_name = input("Enter student's name: ")
 course_name = input("Enter course name: ")
